@@ -22,5 +22,5 @@ IBM HR Analytics Attrition Dataset — 1,470 employee records with 35
 features including age, department, job role, overtime, and monthly income.
 
 ## Contributing
-This is a personal project. Suggestions and feedback are welcome — 
+This is a personal project. Suggestions and feedback are welcome; 
 feel free to open an issue.
